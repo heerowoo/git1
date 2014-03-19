@@ -1,5 +1,5 @@
 hello 
 
-this is my first git program,i try to use this software to familiar opensource world.
+this is my first git program,i try to use this software to be familiar with the opensource world.
 
 heero woo
