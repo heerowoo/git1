@@ -1,3 +1,5 @@
-ºÕ¶ûÅ¶ ½«
+hello 
+
+this is my first git program,i try to use this software to familiar opensource world.
 
 heero woo
