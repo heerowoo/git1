@@ -2,4 +2,6 @@ hello
 
 this is my first git program,i try to use this software to be familiar with the opensource world.
 
+good
+
 heero woo
